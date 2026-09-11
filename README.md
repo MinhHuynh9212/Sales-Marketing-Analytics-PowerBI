@@ -79,6 +79,5 @@ The objective of this project is to transform raw sales and marketing data into 
 * Interactive Dashboard Design
 * Sales Analysis
 * Marketing Analysis
-* Customer Analysis
 * Product Analysis
 * Business Intelligence
