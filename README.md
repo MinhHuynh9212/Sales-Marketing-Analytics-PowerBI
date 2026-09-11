@@ -8,3 +8,14 @@
 
 ### Page 2 — Product details
 ![Marketing Performance](images/Product_Details_dashboard.png)
+
+Marketing-Analytics-PowerBI/
+│
+├── README.md
+├── images/
+│   ├── overview.png
+│   └── Product_Details_dashboard.png
+│
+├── sales_marketing_dashboard.pbix
+└── dataset/
+    
