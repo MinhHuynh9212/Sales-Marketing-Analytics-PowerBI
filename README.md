@@ -9,6 +9,7 @@
 ### Page 2 — Product details
 ![Marketing Performance](images/Product_Details_dashboard.png)
 
+
 Marketing-Analytics-PowerBI/
 │
 ├── README.md
