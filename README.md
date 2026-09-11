@@ -7,4 +7,4 @@
 ![Overview Dashboard](images/overview_dashboard.png)
 
 ### Page 2 — Product details
-![Marketing Performance](images/product_details_dashboard.png)
+![Marketing Performance](images/Product_Details_dashboard.png)
